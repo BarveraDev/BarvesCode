@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é Paulo Barbosa ou simplesmente Barves<br>Sou fanático por jogos e porgramação<br>Estou no meu primeiro ano como programador<br>Fazendo faculdade de engenharia de software<br>Fato nada interessante é que sou rato de academia
+Meu nome é Paulo Barbosa ou simplesmente Barves<br>Sou fanático por jogos e programação<br>Estou no meu primeiro ano como programador<br>Fazendo faculdade de engenharia de software<br>Fato nada interessante é que sou rato de academia
 
 
 ## 🌐 Socials:
